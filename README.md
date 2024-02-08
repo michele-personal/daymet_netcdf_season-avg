@@ -1,6 +1,6 @@
 # Python Methods to Derive a Seasonal Mean from Daymet Data - Reading/Writing netCDF
 
-*Author: ORNL DAAC*  
+*Author: Michele Thornton - ORNL DAAC*  
 *Date: February 28, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*  
 
